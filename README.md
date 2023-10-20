@@ -5,3 +5,6 @@ The algorithms and methodologies adapted for quantum computers include Monte Car
 The feasibility of these algorithms on near-term quantum computers with different hardware implementations is also explored. 
 The papers emphasize that finance is expected to be one of the first industry sectors to benefit from quantum computing, both in the short and long term  
 (Herman et al. 2022), (Orús et al. 2019), (Albareti et al. 2022).
+
+![Quantum-Finance](https://github.com/DarkStarStrix/Quantum_Portfolio_Optimization/assets/108637439/4e15b922-10fe-4c6e-b46d-72fd9e41f278)
+
